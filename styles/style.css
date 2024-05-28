@@ -39,11 +39,8 @@ ol {
 
 .page {
   display: flex;
-  align-content: flex-start;
   justify-content: center;
   align-items: center;
-  flex-wrap: wrap;
-
 }
 
 .content {
