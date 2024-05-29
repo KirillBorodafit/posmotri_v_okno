@@ -161,8 +161,8 @@ img {
   font-weight: 700;
   line-height: 40px;
   text-transform: uppercase;
-  text-overflow: ellipsis; 
-  white-space: nowrap; 
+  text-overflow: ellipsis;
+  white-space: nowrap;
   overflow: hidden;
   width: 200px;
 }
